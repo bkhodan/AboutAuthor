@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.btn2:hover{
+    color: #5a6c70;
+}
+.btn{
+    align-items: center;
+    position: relative;
+    display: block;
+    color: white;
+    font-size: 14px;
+    font-family: "montserrat";
+    text-decoration: none;
+    margin: 30px 10px;
+    border: 2px solid #5a6c70;
+    padding: 14px 60px;
+    width: 10%;
+    transition: 1s all ease;
+    white-space: nowrap;
+}
+
+.header{
+    display: flex;
+    background: #2d3436;
+    justify-content: right;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: #404a4c;
+}
+h1{
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.all{
+    background: white;
+}
+.resume{
+    padding-top: 10px;
+    display: flex;
+}
+.block{
+    background: #4c5b60;
+    width: 30%;
+}
+.ablout-me{
+    margin-right: 10px;
+    margin-left: 10px;
+    background: #5a6c70;
+    width: 40%;
+}
+.contact-info h2,.ablout-me h2{
+    text-align: center;
+    color: white;
+}
+.me{
+    display: flex;
+    padding: 10px;
+}
+.Infome{
+    display: block;
+}
+.Infome h4,h3{
+    padding: 5px 10px;
+}
+.contact-info li{
+    font-size: 20px;
+    padding: 5px 20px;
+}
+.photo{
+    padding: 5px;
+}
+.next-lvl h3{
+    padding: 20px 20px;
+}
+.next-lvl h4{
+    padding: 5px 20px;
+}
+.next-lvl li{
+    padding: 3px 20px;
+}
